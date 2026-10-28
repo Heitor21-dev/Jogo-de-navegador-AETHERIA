@@ -1,1 +1,2 @@
-# Jogo-de-navegador-AETHERIA
+# AETHERIA
+Jogo de navegador 
